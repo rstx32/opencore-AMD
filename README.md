@@ -11,4 +11,4 @@ common specification :
 ||3xSATA HDD|
 |WLAN|USB TPlink WN722N V3|
 
-> all function works pretty well with no minus
+> all function works pretty well, minus : DRM Apple, cannot play video from Apple TV/Apple music (blacksreen)
